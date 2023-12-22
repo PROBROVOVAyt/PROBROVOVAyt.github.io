@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Minecraft;
+    src: url("https://github.com/PROBROVOVAyt/Site/blob/main/main/fonts/Minecraft/Minecraft.ttf") format('truetype');
+}
+
+* {
+    font-family: Minecraft;
+    background-color: black;
+    color: white;
+}
